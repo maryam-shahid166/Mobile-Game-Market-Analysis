@@ -1,6 +1,6 @@
 Business Question: Do free-to-play games perform differently from paid games on the Play Store, and which game genres perform best overall?
 
-Data: Google Play Store Apps dataset (Kaggle, ~10,000 apps), filtered to the Games category (~[X] apps after filtering).
+Data: Google Play Store Apps dataset (Kaggle, ~10,000 apps), filtered to the Games category
 
 Method:
 Cleaned the Installs column (removed commas/plus signs, converted to numeric)
